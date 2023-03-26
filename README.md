@@ -5,10 +5,13 @@ This repository contains my solutions to the programming tasks assigned by SoftU
 Here's a list of the tasks I've completed, with links to their respective folders:
 * [Basic Syntax, Conditional Statements and Loops](./1.BasicSyntaxEXC)
 * [Arrays](./3.ArraysEXC)
+* [Functions](./4.FunctionsEXC)
 * [Arrays Advanced](./5.ArraysAdvancedEXC)
   * [Arrays Advanced More Excercises](./5.ArraysAdvancedMoreEXC)
 * [Objects And Classes](./6.ObjectsAndClassesEXC)
 * [Associative Arrays](./7.AssociativeArraysEXC)
 * [Text Processing](./8.TextProcessingEXC)
+* [Regular Expressions](./9.RegExEXC)
 ##### All exams:
 * [Mid Exams](./AllMidExams)
+* [Final Exams](./AllFinalExams)
