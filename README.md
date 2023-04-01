@@ -12,6 +12,7 @@ Here's a list of the tasks I've completed, with links to their respective folder
 * [Associative Arrays](./7.AssociativeArraysEXC)
 * [Text Processing](./8.TextProcessingEXC)
 * [Regular Expressions](./9.RegExEXC)
+  * [Regular Expressions Labs](./9.RegExLAB)
 ##### All exams:
 * [Mid Exams](./AllMidExams)
 * [Final Exams](./AllFinalExams)
