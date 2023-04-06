@@ -16,8 +16,10 @@ Here's a list of the tasks I've completed, with links to their respective folder
 * Objects and Classes:
   * [Objects And Classes Exercises](./6.ObjectsAndClassesEXC)
 * Associative Arrays:
+  * [Associative Arrays Labs](./7.AssociativeArraysLAB)
   * [Associative Arrays Exercises](./7.AssociativeArraysEXC)
 * Text Processing:
+  * [Text Processing Labs](./8.TextProcessingLAB)
   * [Text Processing Exercises](./8.TextProcessingEXC)
 * Regular expressions:
   * [Regular Expressions Labs](./9.RegExLAB)
