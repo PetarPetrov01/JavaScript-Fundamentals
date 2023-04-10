@@ -7,13 +7,16 @@ Here's a list of the tasks I've completed, with links to their respective folder
 * Basic Syntax, Conditional Statements and Loops:
   * [Basic Syntax, Conditional Statements and Loops Exercises](./1.BasicSyntaxEXC)
 * Arrays:
+  * [Arrays Labs](./3.ArraysLAB)
   * [Arrays Exercsies](./3.ArraysEXC)
 * Functions:
+  * [Functions Labs](./4.FunctionsLAB)
   * [Functions Exercises](./4.FunctionsEXC)
 * Arrays Advanced:
   * [Arrays Advanced Exercises](./5.ArraysAdvancedEXC)
   * [Arrays Advanced More Excercises](./5.ArraysAdvancedMoreEXC)
 * Objects and Classes:
+  * [Objects And Classes Labs](./6.ObjectsAndClassesLAB)
   * [Objects And Classes Exercises](./6.ObjectsAndClassesEXC)
 * Associative Arrays:
   * [Associative Arrays Labs](./7.AssociativeArraysLAB)
@@ -27,5 +30,6 @@ Here's a list of the tasks I've completed, with links to their respective folder
   
 #### All exams:
 * [Mid Exams](./AllMidExams)
+  * [My Mid Exam Problems](./MyMidExam)
 * [Final Exams](./AllFinalExams)
   * [My Final Exam Problems](./MyFinalExam)
