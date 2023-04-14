@@ -5,6 +5,7 @@ This repository contains my solutions to the programming tasks assigned by SoftU
 Here's a list of the tasks I've completed, with links to their respective folders:
 
 * Basic Syntax, Conditional Statements and Loops:
+  * [Basic Syntax, Conditional Statements and Loops Labs](./1.BasicSyntaxLAB)
   * [Basic Syntax, Conditional Statements and Loops Exercises](./1.BasicSyntaxEXC)
 * Arrays:
   * [Arrays Labs](./3.ArraysLAB)
@@ -13,6 +14,7 @@ Here's a list of the tasks I've completed, with links to their respective folder
   * [Functions Labs](./4.FunctionsLAB)
   * [Functions Exercises](./4.FunctionsEXC)
 * Arrays Advanced:
+  * [Arrays Advanced Labs](./5.ArraysAdvancedLAB)
   * [Arrays Advanced Exercises](./5.ArraysAdvancedEXC)
   * [Arrays Advanced More Excercises](./5.ArraysAdvancedMoreEXC)
 * Objects and Classes:
